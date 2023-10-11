@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #1d1c1c;
+    color: #FFFFFF;
+}
+
+.titulo {
+    text-align: center;
+    margin: 30px 0; 
+}
+
+hr {
+    margin: 50px 0;
+}
+
+.lista {
+    padding-left: 60px;
+}
+
+img {
+    margin: 0 auto;
+    display: block;
+}
