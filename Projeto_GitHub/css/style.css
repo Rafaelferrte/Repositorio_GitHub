@@ -14,11 +14,12 @@ body {
 }
 
 hr {
-    margin: 50px 0;
+    margin: 0 0 50px 0;
 }
 
 .lista {
     padding-left: 60px;
+    margin: 0 0 50px 0;
 }
 
 img {
